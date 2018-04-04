@@ -6,7 +6,7 @@ In this file you find a docker compose file which combines multiple images/conta
 
 Implement the following commands and check te reference guide of docker to see what the options are of the different commands
 
-* [Build](https://docs.docker.com/compose/overview/)
+* [Compose](https://docs.docker.com/compose/overview/)
 
 ```
 docker-compose up
